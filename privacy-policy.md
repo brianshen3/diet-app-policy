@@ -1,6 +1,6 @@
 # Privacy Policy for DietApp
 
-**Last Updated:** January 3, 2025
+**Last Updated:** July 3, 2025
 
 ## Introduction
 
@@ -11,7 +11,6 @@ DietApp ("we," "our," or "us") is committed to protecting your privacy. This Pri
 ### Personal Information
 - **Email Address**: Used for account creation and authentication
 - **Account Credentials**: Encrypted passwords for secure access
-- **Google Account Information**: When using Google Sign-In (name, email, profile picture)
 
 ### Health and Nutrition Data
 - **Meal Information**: Photos of meals, descriptions, and nutritional data
@@ -53,10 +52,6 @@ DietApp ("we," "our," or "us") is committed to protecting your privacy. This Pri
 
 ## Third-Party Services
 
-### Google Services
-- **Google Sign-In**: For authentication (covered by Google's Privacy Policy)
-- **Google OAuth**: Secure authentication without storing your Google password
-
 ### Analytics and Monitoring
 - **Expo Analytics**: App performance and usage analytics
 - **Crash Reporting**: Anonymous crash reports for bug fixes
@@ -79,7 +74,6 @@ DietApp ("we," "our," or "us") is committed to protecting your privacy. This Pri
 
 ### Communication Preferences
 - **Notifications**: Control in-app notifications and reminders
-- **Marketing**: Opt-out of promotional communications (future feature)
 
 ## Data Sharing and Disclosure
 
